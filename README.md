@@ -6,7 +6,7 @@ Prototipo de una aplicación Angular con Test Automatizados utilizando Karma Jas
 Pagina de prueba sencilla, con un header que se obtiene del typescript y un boton que oculta o muestra un texto.
 
 ### Tests que realiza:
-1. Comrpueba que el componente se inicializa correctamente
+1. Comprueba que el componente se inicializa correctamente
 2. Comprueba que el valor del titulo es el adecuado directamente en el typescript
 3. Comprueba que el boton existe
 4. Comprueba que el texto oculto no se muestra
